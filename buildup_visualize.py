@@ -1,7 +1,7 @@
 # 시계열 데이터 기반 봇 탐지 데이터 셋 구축 및 시각화 프로그래밍
 import numpy as np
 import matplotlib.pyplot as plt
-import os
+import os 
 import matplotlib.font_manager as fm
 import pandas as pd
 
